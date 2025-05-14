@@ -1,0 +1,2 @@
+pip install pandas numpy scikit-learn matplotlib
+python application_scorecard.py
